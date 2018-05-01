@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
 
-#import <stdlib.h> // 应用arc4random()函数
+#include <stdlib.h> // 应用arc4random()函数
 
 #define ArrayElements 10
 
